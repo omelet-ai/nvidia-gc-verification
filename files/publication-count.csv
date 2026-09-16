@@ -1,0 +1,62 @@
+title,venue,top3
+"Reinforced sequential Monte Carlo for amortised sampling Sanghyeok Choi, Sarthak Mittal, Victor Elvira, Jinkyoo Park, Nikolay Malk",International Conference on Machine Learning (ICML) 2026 – Spotlight,True
+"Active Attacks: Red-teaming LLMs via Adaptive Environments Taeyoung Yun, Pierre-Luc St-Charles, Jinkyoo Park, Yoshua Bengio, Minsu",International Conference on Machine Learning (ICML) 2026,True
+"Diffusion Alignment as Variational Expectation-Maximization Jaewoo Lee, Minsu Kim, Sanghyeok Choi, Inhuck Song, Sujin Yun, Hyeongy",International Conference on Learning Representation (ICLR) 2026,True
+"Diffusion Fine-Tuning via Reparameterized Policy Gradient of the Soft Q-Function Hyeongyu Kang*, Jaewoo Lee*, Woocheol Shin*, Kiyo",International Conference on Learning Representation (ICLR) 2026,True
+"Towards Real-World Routing with Neural Combinatorial Optimization Jiwoo Son*, Zhikai Zhao*, Federico Berto*, Chuanbo Hua, Zhiguang",International Conference on Learning Representation (ICLR) 2026,True
+"Adaptive Replay Buffer for Offline-to-Online Reinforcement Learning Chihyeon Song, Jaewoo Lee, Jinkyoo Park Artificial Intelligenc","Artificial Intelligence and Statistics (AISTATS), 2026",False
+"TrajEvo: Designing Trajectory Prediction Heuristics via LLM-driven Evolution Zhikai Zhao, Chuanbo Hua, Federico Berto, Kanghoon Le","AAAI Conference on Artificial Intelligence (AAAI), 2026",False
+USPR: Learning a Unified Solver for Profiled Routing,"AAAI Conference on Artificial Intelligence (AAAI), 2026",False
+"Traffic Network Layout Optimization with Guided Discrete Diffusion Models Taeyoung Yun, Inhyuck Song, Woocheol Shin, Yujin Shin, S",International Conference on Web Search and Data Mining (WSDM) 2026,False
+PARCO: Parallel AutoRegressive Models for Multi-Agent Combinatorial Optimization,Neural Information Processing Systems (NeurIPS) 2025,True
+Human Implicit Preference-Based Policy Fine-Tuning for Multi-Agent Reinforcement Learning in USV Swarm,International Conference on Intelligent Robots and Systems (IROS) 2025,False
+RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark,ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD) 2025,False
+Wind Farm Layout Optimization with Diffusion Models,ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD) 2025,False
+Improved Off-policy Reinforcement Learning in Biological Sequence Design,International Conference on Machine Learning (ICML) 2025,True
+Neural Genetic Search in Discrete Spaces,International Conference on Machine Learning (ICML) 2025,True
+Posterior Inference with Diffusion Models for High-dimensional Black-box Optimization,International Conference on Machine Learning (ICML) 2025,True
+Learning to Sample Effective and Diverse Prompts for Text-to-Image Generation,IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025,False
+"Adaptive Teachers for Amortized Samplers Minsu Kim*, Sanghyeok Choi*, Taeyoung Yun, Emmanuel Bengio, Leo Feng, Jarrid Rector-Brook",International Conference on Learning Representation (ICLR) 2025,True
+MOFFlow: Flow Matching for Structure Prediction of Metal-Organic Frameworks,International Conference on Learning Representation (ICLR) 2025,True
+Generative Flows on Synthetic Pathways for Drug Design,International Conference on Learning Representation (ICLR) 2025,True
+Ant Colony Sampling with GFlowNets for Combinatorial Optimization,"Artificial Intelligence and Statistics (AISTATS), 2025",False
+CAMP: Collaborative Attention Model with Profiles for Vehicle Routing Problems,"International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2025",False
+"Learning Strategy Representation for Imitation Learning in Multi-Agent Games Shiqi Lei*, Kanghoon Lee*, Linjing Li, Jinkyoo Park A","AAAI Conference on Artificial Intelligence (AAAI), 2025",False
+"Genetic-guided GFlowNets for Sample Efficient Molecular Optimization Hyeonah Kim, Minsu Kim, Sanghyeok Choi, Jinkyoo Park Neural I","Neural Information Processing Systems (NeurIPS), 2024",True
+"GTA: Generative Trajectory Augmentation with Guidance for Offline Reinforcement Learning Jaewoo Lee*, Sujin Yun*, Taeyoung Yun, Ji","Neural Information Processing Systems (NeurIPS), 2024",True
+"Guided Trajectory Generation with Diffusion Models for Offline Model-based Optimization Taeyoung Yun, Sujin Yun, Jaewoo Lee, Jinky","Neural Information Processing Systems (NeurIPS), 2024",True
+"Pessimistic Backward Policy for GFlowNets Hyosoon Jang, Yunhui Jang, Minsu Kim, Jinkyoo Park, Sungsoo Ahn Neural Information Proce","Neural Information Processing Systems (NeurIPS), 2024",True
+"Large Language Models as Hyper-Heuristics for Combinatorial Optimization Haoran Ye, Jiarui Wang, Zhiguang Cao, Federico Berto, Chu","Neural Information Processing Systems (NeurIPS), 2024",True
+"NLNS-MASPF for solving Multi-Agent Scheduling and Path-Finding Heemang Park*, Kyuree Ahn*, Jinkyoo Park International Conference o",International Conference on Intelligent Robots and Systems (IROS) 2024,False
+"Ensembling Prioritized Hybrid Policies for Multi-agent Pathfinding Huijie Tang*, Federico Berto*, Jinkyoo Park International Confe",International Conference on Intelligent Robots and Systems (IROS) 2024,False
+"An Offline Meta Black-box Optimization Framework for Adaptive Design of Urban Traffic Light Management Systems Taeyoung Yun*, Kang","ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2024",False
+"Symmetric Replay Training: Enhancing Sample Efficiency in Deep Reinforcement Learning for Combinatorial Optimization Hyeonah Kim, ",International Conference on Machine Learning (ICML) 2024,True
+"Learning to Scale Logits for Temperature-Conditional GFlowNets Minsu Kim*, Joohwan Ko*, Taeyoung Yun*, Dinghuai Zhang, Ling Pan, W",International Conference on Machine Learning (ICML) 2024,True
+"Local Search GFlowNets Minsu Kim, Taeyoung Yun, Emmanuel Bengio, Dinghuai Zhang, Yoshua Bengio, Sungsoo Ahn and Jinkyoo Park Inter",International Conference on Learning Representation (ICLR) 2024 (Spotlight),True
+"Equity-Transformer: Solving NP-hard Min-max Routing Problems as Sequential Generation with Equity Context Jiwoo Son*, Minsu Kim*, ","AAAI Conference on Artificial Intelligence (AAAI), 2024",False
+"Bootstrapped Training of Score-Conditioned Generator for Offline Design of Biological Sequences Minsu Kim, Federico Berto, Sungsoo","Neural Information Processing Systems (NeurIPS), 2023",True
+"Learning Efficient Surrogate Dynamic Models with Graph Spline Networks Chuanbo Hua*, Federico Berto*, Michael Poli, Stefano Massar","Neural Information Processing Systems (NeurIPS), 2023",True
+"Learning to Schedule in Multi-Agent Pathfinding Kyuree Ahn*, Heemang Park*, and Jinkyoo Park International Conference on Intellige",International Conference on Intelligent Robots and Systems (IROS) 2023,False
+"Learning Multivariate Hawkes Process via Graph Recurrent Neural Network Kanghoon Yoon*, Youngjun Im*, Jingyu Choi, Taehwan Jeong, ","ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2023",False
+Meta-SAGE: A Scale Meta-Learning Scheduled Adaptation with Guided Exploration for Large Scale Combinatorial Optimization Jiwoo Son,International Conference on Machine Learning (ICML) 2023 (based on the preliminary version of the NeurIPS Distsift Workshop),True
+"DevFormer: A Symmetric Transformer for Context-Aware Device Placement Haeyeon Kim*, Minsu Kim*, Federico Berto, Joungho Kim and Ji",International Conference on Machine Learning (ICML) 2023 (based on the preliminary version of the NeurIPS Offline RL Workshop),True
+Neuro CROSS-exchange: Learning to CROSS-exchange to solve realistic vehicle routing problems.,International Conference on Learning Representation (ICLR) 2023,True
+Bayesian Convolutional Deep Sets with Task-Dependent Stationary Prior.,"International Conference on Artificial Intelligence and Statistics (AISTATS), 2023",False
+SchelduleNet: Learning to solve multi-robot scheduling problems with reinforcement learning.,"International Conference on Autonomous Agents and MultiAgent Systems (AAMAS), 2023",False
+Sym-NCO: Leveraging Symmetricity for Neural Combinatorial Optimization.,"Neural Information Processing Systems (NeurIPS), 2022",True
+Learning NP-Hard multi-vehicle/machine scheduling: GNN theory for random graph embedding and fast fitted Q-iteration with provable guarantee.,"Neural Information Processing Systems (NeurIPS), 2022",True
+Transform Once: Efficient Operator Learning in Frequency Domain.,"Neural Information Processing Systems (NeurIPS), 2022",True
+Efficient Approximate Inference for Stationary Kernel on Frequency Domain.,"International Conference on Machine Learning (ICML),. 2022",True
+Convergent graph solver.,"International Conference on Learning Representations (ICLR), 2022",True
+Neural Solvers for Fast and Accurate Numerical Optimal Control.,"International Conference on Learning Representations (ICLR), 2022",True
+REMAX: Relational Representation for Multi-Agent Exploration.,"International Conference on Autonomous Agents and MultiAgent Systems (AAMAS), 2022",False
+Neural Hybrid Automata: Learning Dynamics With Multiple Modes and Stochastic Transitions.,"Neural Information Processing Systems (NeurIPS), 2021",True
+Differentiable Multiple Shooting Layers.,"Neural Information Processing Systems (NeurIPS), 2021",True
+Learning Collaborative Policies to Solve NP-hard Routing Problems.,"Neural Information Processing Systems (NeurIPS), 2021",True
+Semi-supervised Bearing Fault Diagnosis with Adversarially-Trained Phase-Consistent Network.,"ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2021",False
+Cooperative Biases for Multi-Agent Reinforcement Learning.,"International Conference on Autonomous Agents and MultiAgent Systems (AAMAS), 2021",False
+Dissecting Neural ODEs.,"Neural Information Processing Systems (NeurIPS), 2020, Oral Presentation (1%)",True
+Hypersolvers: Toward Fast Continuous-Depth Models.,"Neural Information Processing Systems (NeurIPS), 2020",True
+Hypergraph Convolutional Recurrent Neural Network.,"ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2020",False
+WATTNet: Learning to Trade FX via Hierarchical Spatio-Temporal Representation of Highly Multivariate Time Series.,"International Joint Conferences on Artificial Intelligence (IJCAI), 2020",False
+Multi-Agent Actor-Critic with Hierarchical Graph Attention Network.,"AAAI Conference on Artificial Intelligence (AAAI), 2020",False
