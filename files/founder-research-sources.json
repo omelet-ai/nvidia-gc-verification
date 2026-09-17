@@ -1,0 +1,86 @@
+{
+  "checked": "2026-09-17",
+  "founder": "Jinkyoo Park",
+  "profile": "https://pure.kaist.ac.kr/en/persons/jinkyoo-park/",
+  "lab_list": "https://silab.kaist.ac.kr/publications-2/",
+  "selection": [
+    {
+      "id": "rl4co",
+      "short": "RL4CO",
+      "venue": "KDD 2025",
+      "title": "RL4CO: An Extensive Reinforcement Learning for Combinatorial Optimization Benchmark",
+      "authors": "Federico Berto et al.; Jinkyoo Park is a listed co-author.",
+      "record": "https://arxiv.org/abs/2306.17100",
+      "paper": "https://arxiv.org/html/2306.17100v6",
+      "code": "https://github.com/ai4co/rl4co",
+      "contribution": "A shared research framework spanning 27 combinatorial-optimization environments and 23 baselines, with modular training and evaluation.",
+      "relevance": "Reusable optimization infrastructure and systematic comparison of learned solvers.",
+      "note": "The author-maintained arXiv record identifies KDD 2025 Oral and links the ACM DOI. Authorship and the 27/23 counts are visible in the paper."
+    },
+    {
+      "id": "parco",
+      "short": "PARCO",
+      "venue": "NeurIPS 2025",
+      "title": "PARCO: Parallel AutoRegressive Models for Multi-Agent Combinatorial Optimization",
+      "authors": "Federico Berto, Chuanbo Hua, Laurin Luttmann, Jiwoo Son, Junyoung Park, Kyuree Ahn, Changhyun Kwon, Lin Xie, Jinkyoo Park.",
+      "record": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/f404c0259def290306159047b0b52584-Abstract-Conference.html",
+      "paper": "https://arxiv.org/abs/2409.03811",
+      "code": "https://github.com/ai4co/parco",
+      "contribution": "Parallel solution construction with agent communication and conflict handling for multi-agent routing and scheduling.",
+      "relevance": "Coordinated decision-making across multiple vehicles or resources.",
+      "note": "NeurIPS proceedings confirm the conference year and Jinkyoo Park in the author list."
+    },
+    {
+      "id": "sym-nco",
+      "short": "Sym-NCO",
+      "venue": "NeurIPS 2022",
+      "title": "Sym-NCO: Leveraging Symmetricity for Neural Combinatorial Optimization",
+      "authors": "Minsu Kim, Junyoung Park, Jinkyoo Park.",
+      "record": "https://papers.nips.cc/paper_files/paper/2022/hash/0cddb777d3441326544e21b67f41bdc8-Abstract-Conference.html",
+      "paper": "https://arxiv.org/abs/2205.13209",
+      "code": "https://github.com/alstn12088/Sym-NCO",
+      "contribution": "Symmetry-based reinforcement-learning regularization evaluated across four routing-related optimization tasks.",
+      "relevance": "Generalization across problem representations and learning efficient optimization policies.",
+      "note": "NeurIPS proceedings confirm the conference year, authors and author-linked source code."
+    },
+    {
+      "id": "meta-sage",
+      "short": "Meta-SAGE",
+      "venue": "ICML 2023",
+      "title": "Meta-SAGE: Scale Meta-Learning Scheduled Adaptation with Guided Exploration for Mitigating Scale Shift on Combinatorial Optimization",
+      "authors": "Jiwoo Son, Minsu Kim, Hyeonah Kim, Jinkyoo Park.",
+      "record": "https://proceedings.mlr.press/v202/son23a.html",
+      "paper": "https://proceedings.mlr.press/v202/son23a/son23a.pdf",
+      "code": "https://github.com/kaist-silab/meta-sage",
+      "contribution": "Adapts pretrained optimization policies to larger instances using scale-aware representations and guided test-time exploration.",
+      "relevance": "Research on scaling learned solvers beyond their training-instance sizes.",
+      "note": "PMLR confirms ICML 2023 and all four authors; the abstract links the source repository."
+    },
+    {
+      "id": "neuro-ce",
+      "short": "Neuro CROSS-exchange",
+      "venue": "ICLR 2023",
+      "title": "Learning to CROSS exchange to solve min-max vehicle routing problems",
+      "authors": "Minjun Kim, Junyoung Park, Jinkyoo Park.",
+      "record": "https://iclr.cc/virtual/2023/poster/11512",
+      "paper": "https://arxiv.org/abs/2206.02771",
+      "slides": "https://iclr.cc/media/iclr-2023/Slides/11512.pdf",
+      "contribution": "A graph neural network predicts promising route exchanges to guide a conventional search operator for min-max vehicle routing.",
+      "relevance": "Hybrid AI and operations-research methods for practical routing decisions.",
+      "note": "ICLR confirms authorship and the accepted title above. The linked earlier preprint uses the title “Neuro CROSS exchange: Learning to CROSS exchange to solve realistic vehicle routing problems”."
+    },
+    {
+      "id": "devformer",
+      "short": "DevFormer",
+      "venue": "ICML 2023",
+      "title": "DevFormer: A Symmetric Transformer for Context-Aware Device Placement",
+      "authors": "Haeyeon Kim, Minsu Kim, Federico Berto, Joungho Kim, Jinkyoo Park.",
+      "record": "https://proceedings.mlr.press/v202/kim23h.html",
+      "paper": "https://proceedings.mlr.press/v202/kim23h/kim23h.pdf",
+      "code": "https://github.com/ai4co/devformer",
+      "contribution": "Context-aware transformer optimization for decoupling-capacitor placement, evaluated in simulated and real hardware.",
+      "relevance": "Evidence of optimization research breadth beyond logistics, including semiconductor-related design.",
+      "note": "PMLR confirms ICML 2023 and the author list. The author repository provides code and a placement benchmark."
+    }
+  ]
+}
