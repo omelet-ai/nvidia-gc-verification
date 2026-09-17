@@ -1,18 +1,12 @@
 [
   {
     "file": "industrial-applications.mp4",
-    "source_deck": "NVIDIA_Grand_Challange_Omelet_Final_Codex.html",
-    "source_video_id": "case-video",
-    "bytes": 2253929,
-    "sha256": "9963404448b632f2f2aaeac4aae4122c948014eb5acd5566ff8390a2d314dff3",
-    "processing": "Exact embedded MP4 bytes; no re-encoding"
+    "source": "Final Codex product demonstration",
+    "processing": "Public review copy; identifying labels masked where needed. Original retained privately."
   },
   {
     "file": "factory-studio-foundry.mp4",
-    "source_deck": "NVIDIA_Grand_Challange_Omelet_Final_Codex.html",
-    "source_video_id": "flow-video",
-    "bytes": 20897281,
-    "sha256": "84d1e3aea2a6125ca43cb7457425fb089a89917dc599c3e1800b82e6f57c3bf9",
-    "processing": "Exact embedded MP4 bytes; no re-encoding"
+    "source": "Final Codex product demonstration",
+    "processing": "Public review copy; identifying labels masked where needed. Original retained privately."
   }
 ]
